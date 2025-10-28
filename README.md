@@ -70,4 +70,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Device-LG%20V60%20ThinQ-lightgrey?style=for-the-badge&logo=lg" alt="Device Badge" /><br>
   <sub>#rofikkerneldev #AOSP#Android16 #LGV60 #timelm #ROM #Unofficial</sub>
-</p>
+</p> 
