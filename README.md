@@ -63,7 +63,7 @@
 
 ## 🧠 Credits & Acknowledgements
 - 💡 **LG Community** – for device support & testing  
-- 🧾 **Kernel Source:** [lgv60nextgen_rofikkernel](https://github.com/Rofikkernel/lgv60nextgen_rofikkernel)
+- 🧾 **Kernel Source:** [source](https://github.com/Rofikkernel/lgv60nextgen_rofikkernel)
 
 ---
 
