@@ -36,7 +36,7 @@
 |:---:|:----------------|:----------|:------|
 | 1 | Haitch Tea | BuyMeCoffee | - |
 | 2 | Andrés | Paypal | - |
-| 3 | *Coming Soon* | - | - |
+| 3 | PierceCipher | Crypto | - |
 | 4 | *Coming Soon* | - | - |
 | 5 | *Coming Soon* | - | - |
 
