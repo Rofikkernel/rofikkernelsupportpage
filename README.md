@@ -17,11 +17,11 @@
   <a href="https://buymeacoffee.com/rofikkernel">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-ffdd00?style=flat-square&logo=buy-me-a-coffee" />
   </a>
- <a href="https://telegra.ph/RofikKernelDev-Donate-Crypto-10-29">
+ <a href="https://justpaste.it/b7b0h">
     <img src="https://img.shields.io/badge/USDT-Donate-26A17B?style=flat-square&logo=tether" />
   </a>
   &nbsp;
-  <a href="https://telegra.ph/RofikKernelDev-Donate-Crypto-10-29">
+  <a href="https://justpaste.it/b7b0h">
     <img src="https://img.shields.io/badge/ETH-Donate-3C3C3D?style=flat-square&logo=ethereum" />
   </a>
 </p>
