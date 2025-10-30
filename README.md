@@ -32,16 +32,23 @@
 
 ## 🎖️ Supporters
 
-| No. | Name / Username | Platform | Date |
+| No. | Name / Username | Platform | Rank |
 |:---:|:----------------|:----------|:------|
-| 1 | Haitch Tea | BuyMeCoffee | - |
-| 2 | Andrés | Paypal | - |
-| 3 | PierceCipher | Crypto | - |
-| 4 | *Coming Soon* | - | - |
-| 5 | *Coming Soon* | - | - |
-
+| 1 | **Haitch Tea** | BuyMeCoffee | ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 2 | **Andrés** | PayPal | ![BRONZE](https://img.shields.io/badge/BRONZE-CD7F32?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 3 | **PierceCipher** | Crypto | ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) |
+| 4 | *Coming Soon* | — | — |
+| 5 | *Coming Soon* | — | — |
 
 > Want your name featured here? Donate via any link above ❤️
+### 🏅 Rank Legend
+
+| Badge | Tier | Description |
+|:------|:------|:------------|
+| ![PLATINUM](https://img.shields.io/badge/PLATINUM-E5E4E2?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) | **Platinum** | Top-tier backer — elite support |
+| ![GOLD](https://img.shields.io/badge/GOLD-FFD700?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) | **Gold** | Exceptional contribution |
+| ![BRONZE](https://img.shields.io/badge/BRONZE-CD7F32?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) | **Bronze** | Early or repeat supporter |
+| ![SILVER](https://img.shields.io/badge/SILVER-C0C0C0?style=for-the-badge&labelColor=555555&logo=github-sponsors&logoColor=white) | **Silver** | Every bit of help counts! 🙏 |
 
 ---
 
