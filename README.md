@@ -57,19 +57,19 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | Evolution X Bka |  Vanilla
+| **OS** | RisingOS Revived 8.1.1 |  Vanilla
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16 |
-| **Build Type** | Unofficial |
-| **Security Patch** | September 2025 |
-| **Last Build** | 07 October 2025 |
+| **Build Type** | Unofficial | Early Test Version
+| **Security Patch** | Nov 2025 |
+| **Last Build** | 10 November 2025 |
 | **Maintainer** | [@rofikkerneldev](https://t.me/rofikkerneldev) |
 
 ---
 
 ## 📦 Downloads
-- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/K8dbndsv)  
-- 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/485)  
+- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/M71ykUs7)  
+- 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/492)  
 - 🧾 **Installation Guide:** [>>](https://telegra.ph/Install-AOSP-LG-V60-09-25)  
 - 🔔 **Update Channel:** [Telegram Updates](https://t.me/rofikkerneldev)
 
