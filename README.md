@@ -57,10 +57,10 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | RisingOS Revived 8.1.1 |  Vanilla
+| **OS** | RisingOS Revived 8.1.1  Vanilla
 | **Device** | LG V60 ThinQ *(timelm)* |  
 | **Android Version** | 16 |
-| **Build Type** | Unofficial | Early Test Version
+| **Build Type** | Unofficial Early Test Version
 | **Security Patch** | Nov 2025 |
 | **Last Build** | 10 November 2025 |
 | **Maintainer** | [@rofikkerneldev](https://t.me/rofikkerneldev) |
