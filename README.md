@@ -1,6 +1,6 @@
 <h1 align="center">RofikKernelDev</h1>
 <p align="center">
-  <b>ROM Dev, Android Mod, Rom Patch & Kernel Developer</b><br>
+  <b>ROM Dev, Android Mod, Rom Patch & Kernel Developer </b><br>
 </p>
 
 ---
