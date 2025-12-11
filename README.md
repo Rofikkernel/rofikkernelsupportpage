@@ -57,18 +57,18 @@
 
 | Field | Info |
 |-------|------|
-| **OS** | RisingOS Revived 8.1.1  Vanilla
+| **OS** | LineageOS 23.1
 | **Device** | LG V60 ThinQ *(timelm)* |  
-| **Android Version** | 16 |
-| **Build Type** | Unofficial Early Test Version
+| **Android Version** | 16.2 |
+| **Build Type** | Unofficial
 | **Security Patch** | Nov 2025 |
-| **Last Build** | 10 November 2025 |
+| **Last Build** | 18 Dec 2025 |
 | **Maintainer** | [@rofikkerneldev](https://t.me/rofikkerneldev) |
 
 ---
 
 ## 📦 Downloads
-- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/M71ykUs7)  
+- 📁 **ROM:** [>>Mirror](https://pixeldrain.com/u/sePjY7Ue)  
 - 🖼️ **Screenshots:** [View on Telegram](https://t.me/rofikkerneldev/492)  
 - 🧾 **Installation Guide:** [>>](https://telegra.ph/Install-AOSP-LG-V60-09-25)  
 - 🔔 **Update Channel:** [Telegram Updates](https://t.me/rofikkerneldev)
